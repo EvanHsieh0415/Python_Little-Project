@@ -1,6 +1,6 @@
 import random
 
-def ver_function(longer, digit):
+def verify_func(longer, digit):
     try:
         longer = int(longer)
         digit = int(digit)
