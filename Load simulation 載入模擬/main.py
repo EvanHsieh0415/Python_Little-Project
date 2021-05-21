@@ -9,3 +9,5 @@ def loading():
         os.system('cls')
     os.system('cls')
     print('載入完畢 100%')
+
+loading()
